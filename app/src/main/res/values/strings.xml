@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broadcast SMS</string>
+    <string name="pls_enter_code">Подтвердите что вы это вы, введите код:</string>
+    <string name="allow">Принять</string>
+</resources>
